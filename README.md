@@ -1,10 +1,8 @@
-# 💻 Abdulbosid's Portfolio
-
-![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+Portfolio)
+# 💻 Abdulhamid's Portfolio
 
 ## 👋 About Me
 
-Hello! I'm **Abdulbosid**, a passionate **3D Modeler** with experience in **IT and Trading**. I am currently expanding my skills and looking for opportunities to grow my career in **freelancing and online business**. My goal is to move to **England** while improving my **English proficiency**.
+Hello! I'm **Abdulhamid**, a passionate **3D Modeler** with experience in **IT and Trading**. I am currently expanding my skills and looking for opportunities to grow my career in **freelancing and online business**. My goal is to move to **England** while improving my **English proficiency**.
 
 ---
 
